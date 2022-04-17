@@ -4,6 +4,7 @@ import {
   Chat,
   Channel,
   ChannelHeader,
+  ChannelList,
   MessageInput,
   MessageList,
   Thread,
@@ -22,21 +23,20 @@ chatClient.connectUser(
     name: 'cold',
     image: 'https://getstream.io/random_png/?id=cold-bonus-5&name=cold',
   },
-
   userToken
 );
 
 const channel = chatClient.channel('messaging', 'custom_channel_id', {
+  // add as many custom fields as you'd like
   image: 'https://www.drupal.org/files/project-images/react.png',
   name: 'Talk about React',
   members: ['cold-bonus-5'],
 });
 
 const App = () => (
-
-  
-  <Chat client={chatClient} theme="messaging light">
-    <Channel channel={channel}>
+  <Chat client={chatClient} theme="livestream light">
+    <ChannelList />
+    <Channel>
       <Window>
         <ChannelHeader />
         <MessageList />
