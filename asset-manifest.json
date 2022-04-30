@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chat-app/static/css/main.17e38655.css",
+    "main.js": "/chat-app/static/js/main.dd2fb3c4.js",
+    "static/js/913.2f72139f.chunk.js": "/chat-app/static/js/913.2f72139f.chunk.js",
+    "static/js/581.947ade17.chunk.js": "/chat-app/static/js/581.947ade17.chunk.js",
+    "static/js/717.72f97d3d.chunk.js": "/chat-app/static/js/717.72f97d3d.chunk.js",
+    "static/js/829.d37f6cef.chunk.js": "/chat-app/static/js/829.d37f6cef.chunk.js",
+    "static/js/787.6f726199.chunk.js": "/chat-app/static/js/787.6f726199.chunk.js",
+    "static/media/EmojiOneColor.woff2": "/chat-app/static/media/EmojiOneColor.90ee5fb894c8d349bc54.woff2",
+    "static/media/NotoColorEmoji-flags.woff2": "/chat-app/static/media/NotoColorEmoji-flags.148141acfb7ce6e4f383.woff2",
+    "static/media/str-chat__connection-error.svg": "/chat-app/static/media/str-chat__connection-error.90385cff548e3b068187c19d5f25e675.svg",
+    "index.html": "/chat-app/index.html",
+    "main.17e38655.css.map": "/chat-app/static/css/main.17e38655.css.map",
+    "main.dd2fb3c4.js.map": "/chat-app/static/js/main.dd2fb3c4.js.map",
+    "913.2f72139f.chunk.js.map": "/chat-app/static/js/913.2f72139f.chunk.js.map",
+    "581.947ade17.chunk.js.map": "/chat-app/static/js/581.947ade17.chunk.js.map",
+    "717.72f97d3d.chunk.js.map": "/chat-app/static/js/717.72f97d3d.chunk.js.map",
+    "829.d37f6cef.chunk.js.map": "/chat-app/static/js/829.d37f6cef.chunk.js.map",
+    "787.6f726199.chunk.js.map": "/chat-app/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17e38655.css",
+    "static/js/main.dd2fb3c4.js"
+  ]
+}
